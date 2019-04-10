@@ -1,4 +1,3 @@
-```cpp
 #include <iostream>
 #include <stack>
 #include <cstdio>
@@ -13,7 +12,7 @@ long sum(long long a, long long b){
 }
 
 void output(long long sum){
-  	// 1. ç¡®å®šsumæ˜¯å¦ä¸ºè´Ÿæ•°
+  	// 1. È·¶¨sumÊÇ·ñÎª¸ºÊı
 	int flag = 1;
 	if(sum < 0){
 		flag = 0;
@@ -21,7 +20,7 @@ void output(long long sum){
 	}
 	if(!flag) printf("-");
 	
-	// 2. åˆ›å»ºä¸€ä¸ªæ ˆ, å­˜å‚¨æ²¡ä¸‰ä½
+	// 2. ´´½¨Ò»¸öÕ», ´æ´¢Ã»ÈıÎ»
 	stack<int> bits;
 	
 	do{
@@ -29,7 +28,7 @@ void output(long long sum){
 		sum /= 1000;
 	}while(sum);
 
-	// 3. æ‰“å°æ ¼å¼
+	// 3. ´òÓ¡¸ñÊ½
 	if(bits.size() == 1)
 		printf("%d", bits.top());
 	else
@@ -56,10 +55,3 @@ int main()
 	
 	return 0;
 }
-
-```
-
-
-
-- [printfçš„å¡«0è¯­æ³•](https://blog.csdn.net/fyfcauc/article/details/38024019)
-- [stackçš„åŸºæœ¬æ–¹æ³•](https://blog.csdn.net/u014082714/article/details/44228803)

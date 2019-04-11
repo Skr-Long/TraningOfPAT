@@ -12,6 +12,7 @@
 - [1003 Emergency](./code/1003.md) - Skr-Long
 - [1004 Counting Leaves](./code/1004.md) - Skr-Long
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
+- [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
 
 ### Top Level(顶级)
 

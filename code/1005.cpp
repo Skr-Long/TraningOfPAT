@@ -3,7 +3,8 @@
 #include <string>
 using namespace std;
 
-const string numberEnglish[] = {
+
+const char numberEnglish[][10] = {
 	"zero",
 	"one",
 	"two",
@@ -16,27 +17,35 @@ const string numberEnglish[] = {
 	"nine" 
 };
 
-const int MAXN = 1e100 + 1;
-char N[MAXN] = "\0";
-
-void get_digits(){
-	int i = 0, digit = 0;
-	string sum;
-	while(N[i] != 0){
-		digit = (N[i] - '0');
-		sum.to_string()
-		++i;
-	}
-	
-	for(int i = sum.length() - 1; i > 0; --i){
-		printf("%s ", numberEnglish[])
-	}
-}
-
+// s[]表示输入的N， digit[]表示位数 
+char s[111];
+int digit[10]; 
 
 int main(){
-	scanf("%s", N);
-	get_digits();
+	scanf("%s", s);
+	// len是s的长度
+	int len = strlen(s); 
+	
+	// sum 是s的位之和
+	// numLen是sum的长度 
+	int sum = 0, numLen = 0;
+	
+	// 获得累加之和
+	for(int i = 0; i < len; ++i){
+		sum += (s[i] - '0');
+	} 
+	if(sum == 0){// 如果sum为0直接输出zero 
+		printf("%s", numberEnglish[0]);
+	}else {// 获得sum的每位 
+		while(sum){
+			digit[numLen++] = sum % 10;
+			sum /= 10;
+		}
+		for(int i = numLen-1; i > 0; --i){
+			printf("%s ", numberEnglish[digit[i]]);
+		}
+		printf("%s", numberEnglish[digit[0]]);
+	}
 	
 	return 0;
 } 

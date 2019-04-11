@@ -10,6 +10,7 @@
 - [1001 A+B Format](./code/1001.md) - Skr-Long
 - [1002 A+B for Polynomials](./code/1002.md) - Skr-Long
 - [1003 Emergency](./code/1003.md) - Skr-Long
+- [1004 Counting Leaves](./code/1004.md) - Skr-Long
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 
 ### Top Level(顶级)

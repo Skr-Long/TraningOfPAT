@@ -1,9 +1,13 @@
 # TraningOfPAT
 对练习后的PAT代码存储地方
 
+[(^-^)PAT 真题网站传送门](https://www.patest.cn/practice)
+
 ## Content
 
 ### Basic Level(乙级)
+
+- NULL
 
 ### Advanced Level(甲级)
 
@@ -13,12 +17,13 @@
 - [1004 Counting Leaves](./code/1004.md) - Skr-Long
 - [1005 Spell It Right](./code/1005.md) - Skr-Long
 - [1006 Sign in and Sign out](./code/1006.md) -Skr-Long
+- [1007 Maximum Subsequence Sum](./code/1007.md) -Skr-Long
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
 
 ### Top Level(顶级)
 
-
+- NULL
 
 ## Algorithm
 
@@ -37,4 +42,8 @@
 ### 模拟
 
 - [1005 Spell It Right](./code/1005.md) - 字符串操作, 模拟
+
+### 动态规划
+
+- [1007 Maximum Subsequence Sum](./code/1007.md) - 最大和子序列查找
 

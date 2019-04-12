@@ -24,7 +24,17 @@
 
 ### 图
 
+- [1003 Emergency](./code/1003.md) - 最短路径生成 Dijkstra
+
 ### 树
 
-### 数学
+- [1004 Counting Leaves](./code/1004.md) - 计算每层的叶子节点
+
+### Map的使用
+
+- [1006 Sign in and Sign out](./code/1006.md) - 对于map数据结构的运用
+
+### 模拟
+
+- [1005 Spell It Right](./code/1005.md) - 字符串操作, 模拟
 

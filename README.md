@@ -19,6 +19,7 @@
 - [1006 Sign in and Sign out](./code/1006.md) -Skr-Long
 - [1007 Maximum Subsequence Sum](./code/1007.md) -Skr-Long
 - [1008 Elevator](./code/1008.md) - Skr-Long
+- [1009 Product of Polynomials](./code/1009.md) - Skr-Long
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
 
@@ -38,7 +39,9 @@
 
 ### Map的使用
 
-- [1006 Sign in and Sign out](./code/1006.md) - 对于map数据结构的运用
+- [1006 Sign in and Sign out](./code/1006.md) - 对于map数据结构的运用, 主要利用key的排序,优先输出, 准确来说就是模拟
+- [1002 A+B for Polynomials](./code/1002.md) - 使用map来进行多项式加法的计算
+- [1009 Product of Polynomials](./code/1009.md) - 同理使用map, 通过排序key值, 还有更新value来模拟多项式乘法
 
 ### 模拟
 

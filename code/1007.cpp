@@ -18,25 +18,23 @@ int main(){
 	}
 	
 	// 处理一下	
-	int msum = -1, ls = 0, re = n-1, tempi = 0, temps = 0;
+	int l = 0, r = n-1, sum = -1, tl = 0, temp = 0;
 	for(int i = 0; i < n; ++i){
-		 temps += emls[i];
+		 temp += emls[i];
 		
-		 if(temps < 0){ // 如果前面相加为负数, 直接以后面为开始为最大值左侧 
-		 	temps = 0;
-		 	tempi = i+1;
-		 } 
-		 
-		 if(msum < temps){// 如果msum小于当前计算, 那说明继续增加的是正数, 后面需要继续向后更新右侧坐标 
-		 	msum = temps;
-		 	ls = tempi;
-		 	re = i;
+		 if(temp < 0){ // 如果前面相加为负数, 直接以后面为开始为最大值左侧 
+		 	temp = 0;
+		 	tl = i+1;
+		 } else if(sum < temp){// 如果msum小于当前计算, 那说明继续增加的是正数, 后面需要继续向后更新右侧坐标 
+		 	sum = temp;
+		 	l = tl;
+		 	r = i;
 		 } 
 	}
 	
 	// 输出
-	if(msum < 0) msum = 0;
-	printf("%d %d %d\n", msum, emls[ls], emls[re]); 
+	if(sum < 0) sum = 0;
+	printf("%d %d %d\n", sum, emls[l], emls[r]); 
 	
 	return 0;
 } 

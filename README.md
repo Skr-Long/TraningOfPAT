@@ -18,6 +18,7 @@
 - [1005 Spell It Right](./code/1005.md) - Skr-Long
 - [1006 Sign in and Sign out](./code/1006.md) -Skr-Long
 - [1007 Maximum Subsequence Sum](./code/1007.md) -Skr-Long
+- [1008 Elevator](./code/1008.md) - Skr-Long
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
 
@@ -42,6 +43,7 @@
 ### 模拟
 
 - [1005 Spell It Right](./code/1005.md) - 字符串操作, 模拟
+- [1008 Elevator](./code/1008.md) - 直接模拟, 简单一遍过
 
 ### 动态规划
 

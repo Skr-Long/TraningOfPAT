@@ -23,7 +23,8 @@
 - [1010 Radix](./code/1010.md) - Skr-Long
 - [1011 Word Cup Betting](./code/1010.md) - Skr-Long
 - [1012 The Best Rank](./code/1012.md) - Skr-Long
-- [1013 Battle Over Cities](./code/1013.md) -Skr-Long
+- [1013 Battle Over Cities](./code/1013.md) - Skr-Long
+- [1014 Waiting in Line](./code/1014.md) - Skr-Long
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
 
@@ -42,11 +43,15 @@
 
 - [1004 Counting Leaves](./code/1004.md) - 计算每层的叶子节点
 
-### Map的使用
+### map的使用
 
 - [1006 Sign in and Sign out](./code/1006.md) - 对于map数据结构的运用, 主要利用key的排序,优先输出, 准确来说就是模拟
 - [1002 A+B for Polynomials](./code/1002.md) - 使用map来进行多项式加法的计算
 - [1009 Product of Polynomials](./code/1009.md) - 同理使用map, 通过排序key值, 还有更新value来模拟多项式乘法
+
+### queue的使用
+
+- [1014 Waiting in Line](./code/1014.md) - 通过使用queue来模拟
 
 ### 模拟
 

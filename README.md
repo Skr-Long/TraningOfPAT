@@ -21,6 +21,7 @@
 - [1008 Elevator](./code/1008.md) - Skr-Long
 - [1009 Product of Polynomials](./code/1009.md) - Skr-Long
 - [1010 Radix](./code/1010.md) - Skr-Long
+- [1011 Word Cup Betting](./code/1010.md) - Skr-Long
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
 
@@ -48,6 +49,7 @@
 
 - [1005 Spell It Right](./code/1005.md) - 字符串操作, 模拟
 - [1008 Elevator](./code/1008.md) - 直接模拟, 简单一遍过
+- [1011 World Cup Betting] - 简单模拟, 使用了map存储数据
 
 ### 动态规划
 

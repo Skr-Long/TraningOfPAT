@@ -20,6 +20,7 @@
 - [1007 Maximum Subsequence Sum](./code/1007.md) -Skr-Long
 - [1008 Elevator](./code/1008.md) - Skr-Long
 - [1009 Product of Polynomials](./code/1009.md) - Skr-Long
+- [1010 Radix](./code/1010.md) - Skr-Long
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
 

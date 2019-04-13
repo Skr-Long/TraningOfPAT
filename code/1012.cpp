@@ -1,0 +1,59 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+const int maxm = 2010;
+const int maxq = 10000000;
+
+struct Stu{
+	int id; // 学生id 
+	int grade[4]; // 学生四门成绩 
+} stu[maxm];
+
+char course[] = {'A', 'C', 'M', 'E'}; // 课程名称 
+int Rank[maxq][4];	// 学生id映射的四门课程成绩排名 
+int now; // 当前排序的课程号
+
+
+bool cmp(Stu a, Stu b){// sort的比较函数, 用于排序用 
+	return a.grade[now] > b.grade[now];
+}
+
+int main(){
+	int n, m;
+	scanf("%d %d", &n, &m);
+	for(int i = 0; i < n; ++i){// 获得学生成绩 
+		scanf("%d %d %d %d",&stu[i].id, &stu[i].grade[1], &stu[i].grade[2], &stu[i].grade[3]); 
+		stu[i].grade[0] =  stu[i].grade[1] + stu[i].grade[2] + stu[i].grade[3]; // 使用成绩之和代替平均成绩, 不需要考虑是否四舍五入 
+	} 
+	
+	// 排序四门课程
+	for(now = 0; now < 4; ++now){
+		sort(stu, stu+n, cmp);
+		Rank[stu[0].id][now] = 1;// 设置当前成绩第一名
+		for(int i = 1; i < n; ++i){
+			if(stu[i].grade[now] == stu[i-1].grade[now]){
+				Rank[stu[i].id][now] = Rank[stu[i-1].id][now];
+			} else{
+				Rank[stu[i].id][now] = i+1;
+			}
+		} 
+	} 
+	
+	// 查询
+	int query = 0;
+	for(int i = 0; i < m; ++i){
+		scanf("%d", &query);
+		if(Rank[query][0] == 0) printf("N/A\n");	// 如果不存在, 那么输出 N/A 
+		else{
+			int k = 0;
+			for(int j = 0; j < 4; ++j){
+				if(Rank[query][k] > Rank[query][j]){
+					k = j;
+				}
+			}
+			printf("%d %c\n", Rank[query][k], course[k]);
+		}
+	} 
+	
+	return 0;
+}

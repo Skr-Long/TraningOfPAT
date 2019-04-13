@@ -22,6 +22,8 @@
 - [1009 Product of Polynomials](./code/1009.md) - Skr-Long
 - [1010 Radix](./code/1010.md) - Skr-Long
 - [1011 Word Cup Betting](./code/1010.md) - Skr-Long
+- [1012 The Best Rank](./code/1012.md) - Skr-Long
+- [1013 Battle Over Cities](./code/1013.md) -Skr-Long
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
 
@@ -34,6 +36,7 @@
 ### 图
 
 - [1003 Emergency](./code/1003.md) - 最短路径生成 Dijkstra
+- [1013 Battle Over Cities](./code/1013.md) - 图的连通性以及连通数量(图的遍历DFS算法)
 
 ### 树
 
@@ -49,7 +52,11 @@
 
 - [1005 Spell It Right](./code/1005.md) - 字符串操作, 模拟
 - [1008 Elevator](./code/1008.md) - 直接模拟, 简单一遍过
-- [1011 World Cup Betting] - 简单模拟, 使用了map存储数据
+- [1011 World Cup Betting](./code/1011.md) - 简单模拟, 使用了map存储数据
+
+### 排序
+
+- [1012 The Best Rank](./code/1012.md) - 主要是快速排序以及查询
 
 ### 动态规划
 

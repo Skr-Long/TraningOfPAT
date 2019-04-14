@@ -26,6 +26,7 @@
 - [1013 Battle Over Cities](./code/1013.md) - Skr-Long
 - [1014 Waiting in Line](./code/1014.md) - Skr-Long
 - [1015 Reversible Primes](./code/1015.md) - Skr-Long
+- [1020 Tree Traversals](./code2/PAT_A1020.md) -Mark
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
 

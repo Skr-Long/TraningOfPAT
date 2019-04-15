@@ -29,6 +29,7 @@
 - [1020 Tree Traversals](./code2/PAT_A1020.md) -Mark
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
+- [1053 Path of Equal Weight](./code2/PAT_A1053.md) -Mark
 
 ### Top Level(顶级)
 

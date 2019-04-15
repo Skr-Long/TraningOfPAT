@@ -26,6 +26,7 @@
 - [1013 Battle Over Cities](./code/1013.md) - Skr-Long
 - [1014 Waiting in Line](./code/1014.md) - Skr-Long
 - [1015 Reversible Primes](./code/1015.md) - Skr-Long
+- [1016 Phone Bills](./code/1016.md) - Skr-Long
 - [1020 Tree Traversals](./code2/PAT_A1020.md) -Mark
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
@@ -68,6 +69,7 @@
 ### 排序
 
 - [1012 The Best Rank](./code/1012.md) - 主要是快速排序以及查询
+- [1016 Phone Bills](./code/1016.md) - 使用快排, 需要重写cmp, 直接使用字典序排序, 时间可使用字符串, 后面转换即可
 
 ### 动态规划
 

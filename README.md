@@ -27,6 +27,7 @@
 - [1014 Waiting in Line](./code/1014.md) - Skr-Long
 - [1015 Reversible Primes](./code/1015.md) - Skr-Long
 - [1016 Phone Bills](./code/1016.md) - Skr-Long
+- [1017 Queuing at Bank](./code/1017.md) - Skr-Long
 - [1020 Tree Traversals](./code2/PAT_A1020.md) -Mark
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1043 Is it a Binary Search Tree](./code2/PAT_A1043.md) -Mark
@@ -67,6 +68,7 @@
 - [1005 Spell It Right](./code/1005.md) - 字符串操作, 模拟
 - [1008 Elevator](./code/1008.md) - 直接模拟, 简单一遍过
 - [1011 World Cup Betting](./code/1011.md) - 简单模拟, 使用了map存储数据
+- [1017 Queuing at Bank](./code/1017.md) - 按照数据规则, 筛选适合条件的数据, 排序, 进行时间处理
 
 ### 排序
 

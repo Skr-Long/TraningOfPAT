@@ -28,6 +28,7 @@
 - [1015 Reversible Primes](./code/1015.md) - Skr-Long
 - [1016 Phone Bills](./code/1016.md) - Skr-Long
 - [1017 Queuing at Bank](./code/1017.md) - Skr-Long
+- [1018 Public Bike Management](./code/1018.md) - Skr-Long
 - [1020 Tree Traversals](./code2/PAT_A1020.md) -Mark
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1043 Is it a Binary Search Tree](./code2/PAT_A1043.md) -Mark
@@ -44,6 +45,7 @@
 
 - [1003 Emergency](./code/1003.md) - 最短路径生成 Dijkstra
 - [1013 Battle Over Cities](./code/1013.md) - 图的连通性以及连通数量(图的遍历DFS算法)
+- [1018 Pulic Bike Management](./code/1018.md) - 图的最短路劲计算, 包含节点权值以及边权的计算 Dijkstra + DFS
 
 ### 树
 

@@ -30,6 +30,7 @@
 - [1017 Queuing at Bank](./code/1017.md) - Skr-Long
 - [1018 Public Bike Management](./code/1018.md) - Skr-Long
 - [1019 General Palindromic Number](./code/1019.md) - Skr-Long
+- [1020 Tree Traversals](./code/1020.md) - Skr-Long
 - [1020 Tree Traversals](./code2/PAT_A1020.md) -Mark
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1043 Is it a Binary Search Tree](./code2/PAT_A1043.md) -Mark
@@ -51,6 +52,7 @@
 ### 树
 
 - [1004 Counting Leaves](./code/1004.md) - 计算每层的叶子节点
+- [1020 Tree Traverals](./code/1020.md) - 树的遍历, 后序以及中序还原树, 以及BFS层次遍历树, 树的链式存储
 
 ### map的使用
 

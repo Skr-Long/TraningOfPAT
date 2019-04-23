@@ -29,6 +29,7 @@
 - [1016 Phone Bills](./code/1016.md) - Skr-Long
 - [1017 Queuing at Bank](./code/1017.md) - Skr-Long
 - [1018 Public Bike Management](./code/1018.md) - Skr-Long
+- [1019 General Palindromic Number](./code/1019.md) - Skr-Long
 - [1020 Tree Traversals](./code2/PAT_A1020.md) -Mark
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1043 Is it a Binary Search Tree](./code2/PAT_A1043.md) -Mark
@@ -71,6 +72,7 @@
 - [1008 Elevator](./code/1008.md) - 直接模拟, 简单一遍过
 - [1011 World Cup Betting](./code/1011.md) - 简单模拟, 使用了map存储数据
 - [1017 Queuing at Bank](./code/1017.md) - 按照数据规则, 筛选适合条件的数据, 排序, 进行时间处理
+- [1019 General Palindromic Number](./code/1019.md) - 进制转换以及判断回文数
 
 ### 排序
 

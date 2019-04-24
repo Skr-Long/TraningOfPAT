@@ -36,6 +36,7 @@
 - [1022 Digital Library](./code/1022.md) - Skr-Long
 - [1023 Have Fun with Numbers](./code/1023.md) - Skr-Long
 - [1024 Palindromic Number](./code/1024.md) - Skr-Long
+- [1025 PAT Ranking](./code/1025.md) - Skr-Long
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1043 Is it a Binary Search Tree](./code2/PAT_A1043.md) -Mark
 - [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
@@ -89,6 +90,7 @@
 
 - [1012 The Best Rank](./code/1012.md) - 主要是快速排序以及查询
 - [1016 Phone Bills](./code/1016.md) - 使用快排, 需要重写cmp, 直接使用字典序排序, 时间可使用字符串, 后面转换即可
+- [1025 PAT Ranking](./code/1025.md) - 排序
 
 ### 动态规划
 

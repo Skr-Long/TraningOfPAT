@@ -32,6 +32,7 @@
 - [1019 General Palindromic Number](./code/1019.md) - Skr-Long
 - [1020 Tree Traversals](./code/1020.md) - Skr-Long
 - [1020 Tree Traversals](./code2/PAT_A1020.md) -Mark
+- [1021 Deepest Root](./code/1021.md) - Skr-Long
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1043 Is it a Binary Search Tree](./code2/PAT_A1043.md) -Mark
 - [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
@@ -48,6 +49,7 @@
 - [1003 Emergency](./code/1003.md) - 最短路径生成 Dijkstra
 - [1013 Battle Over Cities](./code/1013.md) - 图的连通性以及连通数量(图的遍历DFS算法)
 - [1018 Pulic Bike Management](./code/1018.md) - 图的最短路劲计算, 包含节点权值以及边权的计算 Dijkstra + DFS
+- [1021 Deepest Root](./code/1021.md) - 图的遍历以及连通块的计算, DFS算法或者BFS算法, 注意回溯或者避免无向图的回路搜索
 
 ### 树
 

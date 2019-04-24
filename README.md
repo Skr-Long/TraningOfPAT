@@ -38,7 +38,7 @@
 - [1024 Palindromic Number](./code/1024.md) - Skr-Long
 - [1025 PAT Ranking](./code/1025.md) - Skr-Long
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
-- 1034 Sharing](./code2/PAT_A1034.md) -Mark
+- [1034 Head of a Gang](./code2/PAT_A1034.md) -Mark
 - [1043 Is it a Binary Search Tree](./code2/PAT_A1043.md) -Mark
 - [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
 - [1053 Path of Equal Weight](./code2/PAT_A1053.md) -Mark

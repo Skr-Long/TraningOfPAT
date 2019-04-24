@@ -34,6 +34,7 @@
 - [1020 Tree Traversals](./code2/PAT_A1020.md) -Mark
 - [1021 Deepest Root](./code/1021.md) - Skr-Long
 - [1022 Digital Library](./code/1022.md) - Skr-Long
+- [1023 Have Fun with Numbers](./code/1023.md) - Skr-Long
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1043 Is it a Binary Search Tree](./code2/PAT_A1043.md) -Mark
 - [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
@@ -71,6 +72,7 @@
 ### 数学
 
 - [1015 Reversible Primes](./code/1015.md) - 计算素数和进制转换, 以及相应进制的十进制转换
+- [1023 Hava Fun with Numbers](./code/1023.md) - 大整数的运算, 使用struct模拟正数之间的运算, 存储更大的数字
 
 ### 模拟
 

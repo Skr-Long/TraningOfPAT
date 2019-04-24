@@ -60,7 +60,7 @@ void print(BigN a){
  
 int main(){
 	char str[21];
-	gets(str);
+	scanf("%s", &str);
 	BigN a = change(str);
 	BigN b = multi(a, 2);
 	if(judge(a, b)){

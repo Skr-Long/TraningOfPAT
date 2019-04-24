@@ -33,6 +33,7 @@
 - [1020 Tree Traversals](./code/1020.md) - Skr-Long
 - [1020 Tree Traversals](./code2/PAT_A1020.md) -Mark
 - [1021 Deepest Root](./code/1021.md) - Skr-Long
+- [1022 Digital Library](./code/1022.md) - Skr-Long
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1043 Is it a Binary Search Tree](./code2/PAT_A1043.md) -Mark
 - [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
@@ -61,6 +62,7 @@
 - [1006 Sign in and Sign out](./code/1006.md) - 对于map数据结构的运用, 主要利用key的排序,优先输出, 准确来说就是模拟
 - [1002 A+B for Polynomials](./code/1002.md) - 使用map来进行多项式加法的计算
 - [1009 Product of Polynomials](./code/1009.md) - 同理使用map, 通过排序key值, 还有更新value来模拟多项式乘法
+- [1022 Digital Library](./code/1022.md) - 通过 map以及set来进行书籍信息与id的映射, 然后输出对应信息
 
 ### queue的使用
 
@@ -77,6 +79,7 @@
 - [1011 World Cup Betting](./code/1011.md) - 简单模拟, 使用了map存储数据
 - [1017 Queuing at Bank](./code/1017.md) - 按照数据规则, 筛选适合条件的数据, 排序, 进行时间处理
 - [1019 General Palindromic Number](./code/1019.md) - 进制转换以及判断回文数
+- [1022 Digital Library](./code/1022.md) - 通过 map以及set来进行书籍信息与id的映射, 然后输出对应信息
 
 ### 排序
 

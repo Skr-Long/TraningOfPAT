@@ -42,6 +42,7 @@
 - [1043 Is it a Binary Search Tree](./code2/PAT_A1043.md) -Mark
 - [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
 - [1053 Path of Equal Weight](./code2/PAT_A1053.md) -Mark
+- [1076 Forward on Weibo](./code2/PAT_A1076.md) -Mark
 
 ### Top Level(顶级)
 

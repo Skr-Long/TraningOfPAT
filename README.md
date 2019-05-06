@@ -39,9 +39,11 @@
 - [1025 PAT Ranking](./code/1025.md) - Skr-Long
 - [1026 Table Tennis](./code/1026.md) - Skr-Long
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
+- [1034 Head of a Gang](./code2/PAT_A1034.md) -Mark
 - [1043 Is it a Binary Search Tree](./code2/PAT_A1043.md) -Mark
 - [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
 - [1053 Path of Equal Weight](./code2/PAT_A1053.md) -Mark
+- [1076 Forward on Weibo](./code2/PAT_A1076.md) -Mark
 
 ### Top Level(顶级)
 
@@ -55,11 +57,20 @@
 - [1013 Battle Over Cities](./code/1013.md) - 图的连通性以及连通数量(图的遍历DFS算法)
 - [1018 Pulic Bike Management](./code/1018.md) - 图的最短路劲计算, 包含节点权值以及边权的计算 Dijkstra + DFS
 - [1021 Deepest Root](./code/1021.md) - 图的遍历以及连通块的计算, DFS算法或者BFS算法, 注意回溯或者避免无向图的回路搜索
+- [1034 Head of a Gang](./code2/PAT_A1034.md) - 图的DFS遍历单连通块，使用map实现字符与编号的映射，使用邻接矩阵存储图，点权等
+- [1076 Forward on Weibo](./code2/PAT_A1076.md) - 图的BFS带层数遍历单连通块，使用邻接表存储图
 
 ### 树
 
 - [1004 Counting Leaves](./code/1004.md) - 计算每层的叶子节点
 - [1020 Tree Traverals](./code/1020.md) - 树的遍历, 后序以及中序还原树, 以及BFS层次遍历树, 树的链式存储
+- [1043 Is it a Binary Search Tree](./code2/PAT_A1043.md) - 二叉查找树的判断(插入序列==先序序列)，以及其镜像树的判断（插入序列==先序序列）其各种操作，都与原二叉查找树相反，例，先右后左孩子
+- [1053 Path of Equal Weight](./code2/PAT_A1053.md) - 遍历二叉树（数的静态写法：即指针域用数组或者vector代替），记录顶到叶子结点的结点权和，找出符合要求的路线 并输出路线
+
+### 链表
+
+- [1032 Sharing](./code2/PAT_A1032.md) - 使用链表（静态链表：即指针域使用整形，代表下个结点在结点组中的下标位置）查询相同后缀下的单词 后缀起始点
+- [1052 Linked List Sorting](./code2/PAT_A1052.md) - 对链表进行排序（静态链表）
 
 ### map的使用
 

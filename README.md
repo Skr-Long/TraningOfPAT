@@ -37,6 +37,7 @@
 - [1023 Have Fun with Numbers](./code/1023.md) - Skr-Long
 - [1024 Palindromic Number](./code/1024.md) - Skr-Long
 - [1025 PAT Ranking](./code/1025.md) - Skr-Long
+- [1026 Table Tennis](./code/1026.md) - Skr-Long
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1043 Is it a Binary Search Tree](./code2/PAT_A1043.md) -Mark
 - [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
@@ -85,6 +86,7 @@
 - [1017 Queuing at Bank](./code/1017.md) - 按照数据规则, 筛选适合条件的数据, 排序, 进行时间处理
 - [1019 General Palindromic Number](./code/1019.md) - 进制转换以及判断回文数
 - [1022 Digital Library](./code/1022.md) - 通过 map以及set来进行书籍信息与id的映射, 然后输出对应信息
+- [1026 Table Tennis](./code/1026.md) - 当前我所遇到的最难的模拟, 主要是逻辑比较复杂, 不容易实现 (对1017的一个扩展)
 
 ### 排序
 

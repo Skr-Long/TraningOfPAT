@@ -3,6 +3,8 @@
 
 [(^-^)PAT 真题网站传送门](https://www.patest.cn/practice)
 
+[(^-^)POJ 北大OJ](http://poj.org/problemlist)
+
 ## Content
 
 ### Basic Level(乙级)
@@ -48,6 +50,10 @@
 ### Top Level(顶级)
 
 - NULL
+
+### other Online-Judges
+
+- [POJ 1384 Piggy-Bank ](./other_code/POJ1384.md) - Skr-Long
 
 ## Algorithm
 
@@ -108,6 +114,7 @@
 ### 动态规划
 
 - [1007 Maximum Subsequence Sum](./code/1007.md) - 最大和子序列查找
+- [POJ 1384 Piggy-Bank ](./other_code/POJ1384.md) - 完全背包问题, 虽然不知道什么叫完全背包问题,不妨碍我吹一下
 
 ### 二分法
 

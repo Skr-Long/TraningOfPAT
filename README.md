@@ -3,7 +3,9 @@
 
 [(^-^)PAT 真题网站传送门](https://www.patest.cn/practice)
 
-[(^-^)POJ 北大OJ](http://poj.org/problemlist)
+[(^-^)POJ 北大OJ传送门](http://poj.org/problemlist)
+
+[(^-^)POJ 浙大OJ传送门](http://acm.zju.edu.cn/onlinejudge/showProblemsets.do)
 
 ## Content
 
@@ -40,6 +42,8 @@
 - [1024 Palindromic Number](./code/1024.md) - Skr-Long
 - [1025 PAT Ranking](./code/1025.md) - Skr-Long
 - [1026 Table Tennis](./code/1026.md) - Skr-Long
+- [1027 Table Tennis](./code/1027.md) - Skr-Long
+- [1028 Table Tennis](./code/1028.md) - Skr-Long
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1034 Head of a Gang](./code2/PAT_A1034.md) -Mark
 - [1043 Is it a Binary Search Tree](./code2/PAT_A1043.md) -Mark

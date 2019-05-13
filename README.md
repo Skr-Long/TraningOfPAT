@@ -50,6 +50,7 @@
 - [1043 Is it a Binary Search Tree](./code2/PAT_A1043.md) -Mark
 - [1052 Linked List Sorting](./code2/PAT_A1052.md) -Mark
 - [1053 Path of Equal Weight](./code2/PAT_A1053.md) -Mark
+- [1069 The Black Hole of Numbers](./code/1069.md) - Skr-Long
 - [1076 Forward on Weibo](./code2/PAT_A1076.md) -Mark
 
 ### Top Level(顶级)
@@ -100,6 +101,7 @@
 - [1015 Reversible Primes](./code/1015.md) - 计算素数和进制转换, 以及相应进制的十进制转换
 - [1023 Hava Fun with Numbers](./code/1023.md) - 大整数的运算, 使用struct模拟正数之间的运算, 存储更大的数字
 - [1024 Palindromic Number](./code/1024.md) - 大整数的运算, 会编写大整数的加法, 以及大整数的反转
+- [1069 The Black Hole of Numbers](./code/1069.md) - 数学递推
 
 ### 模拟
 

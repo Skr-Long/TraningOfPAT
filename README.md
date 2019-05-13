@@ -44,6 +44,7 @@
 - [1026 Table Tennis](./code/1026.md) - Skr-Long
 - [1027 Table Tennis](./code/1027.md) - Skr-Long
 - [1028 Table Tennis](./code/1028.md) - Skr-Long
+- [1030 Travel Plan](./code/1030.md) - Skr-Long
 - [1032 Sharing](./code2/PAT_A1032.md) -Mark
 - [1034 Head of a Gang](./code2/PAT_A1034.md) -Mark
 - [1043 Is it a Binary Search Tree](./code2/PAT_A1043.md) -Mark
@@ -67,6 +68,7 @@
 - [1013 Battle Over Cities](./code/1013.md) - 图的连通性以及连通数量(图的遍历DFS算法)
 - [1018 Pulic Bike Management](./code/1018.md) - 图的最短路劲计算, 包含节点权值以及边权的计算 Dijkstra + DFS
 - [1021 Deepest Root](./code/1021.md) - 图的遍历以及连通块的计算, DFS算法或者BFS算法, 注意回溯或者避免无向图的回路搜索
+- [1030 Travel Plan](./code/1030.md) - 仍然是图的最短路径算法, 这次边权有两个值, 关键在于写比较, 其他的都是模板
 - [1034 Head of a Gang](./code2/PAT_A1034.md) - 图的DFS遍历单连通块，使用map实现字符与编号的映射，使用邻接矩阵存储图，点权等
 - [1076 Forward on Weibo](./code2/PAT_A1076.md) - 图的BFS带层数遍历单连通块，使用邻接表存储图
 
